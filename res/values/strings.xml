@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="score">Score:</string>
+    <string name="step">Step:</string>
+    <string name="timee">Time(s):</string>
+    <string name="record">Record:</string>
+	<string name="hello">Hello,This is AdViewSample!</string>
+    <string name="codelayout">广告位1</string>
+    <string name="codelayout2">广告位2</string>
+    <string name="customlayout">自定义广告平台</string>
+    <string name="bannerlayout">横幅广告</string>
+    <string name="instllayout">全/插屏广告</string>
+    <string name="nativelayout">原生广告</string>
+    <string name="videolayout">视频广告</string>
+    <string name="version">—————— v3.4.0 ——————</string>
+    <string name="content">更新日志</string>
+    <string name="ok">确定</string>
+    <string name="btn_native">加入原生广告</string>
+    <string name="btn_name">请求插屏广告</string>
+    <string name="btn_help">当前版本号：V3.4.0</string>
+    <string name="btn_showinstal">展示广告位1</string>
+    <string name="btn_requesshow">展示广告位2</string>
+    <string name="btn_customshow">展示自定义样式广告位1</string>
+    <string name="btn_requestnatie">请求原生广告</string>
+    <string name="btn_shownative">展示原生广告</string>
+    <string name="btn_requestvideo">请求视频广告</string>
+    <string name="btn_showvideo">展示视频广告</string>
+    <string name="release">更新时间：2016-11-30\n
+        1.添加视频广告竞价\n
+		2.更新Vpon4.6.1\n
+		3.更新万普2.4.8\n
+		4.更新InMobi6.0.2</string>
+
+</resources>
